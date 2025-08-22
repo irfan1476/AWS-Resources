@@ -27,9 +27,11 @@ Recording link: https://awsvirtual.webex.com/awsvirtual/ldr.php?RCID=ba5307a32a9
 Password: AWSAcademy2025
 
 
+
 Webex webinar recording: [Open for all AWS Academy educators] AWS Academy webinar - Amazon ECR
 Recording link: https://awsvirtual.webex.com/awsvirtual/ldr.php?RCID=97cf1289c29ff7c58266bdb1a456c825
 Password: AWSAcademy2025
+
 
  
 
@@ -39,9 +41,11 @@ Password: AWSAcademy2025
 
 
 
+
 Webex webinar recording: AWS Academy webinar - Containers and Docker
 Recording link: https://awsvirtual.webex.com/awsvirtual/ldr.php?RCID=4baac0a7553d9e200efb636bf1dffc39
 Password: AWSAcademy2025
+
 
  
 
@@ -49,26 +53,23 @@ Webex webinar recording: Getting started with AWS Academy
 Recording link: https://awsvirtual.webex.com/awsvirtual/ldr.php?RCID=3084b5a9fd105453b0420e11ca9b236d
 Password: AWSAcademy2025
 
+
  
 
 Webex webinar recording: Introductions to Labs at AWS Academy
-
 Recording link: https://awsvirtual.webex.com/awsvirtual/ldr.php?RCID=79836b1bc3029e07979e64ea16af4350
-
 Password: AWSAcademy2025
+
 
  
 
 Webex webinar recording: [Open for all AWS Academy educators] AWS Academy webinar - AWS Glue
-
 Recording link: https://awsvirtual.webex.com/awsvirtual/ldr.php?RCID=8cbbacb7a55ecfe732536dfa4cc50408
-
 Password: AWSAcademy2025
+
 
  
 
 Webex webinar recording: [Open for all AWS Academy educators] AWS Academy webinar - Amazon Redshift
-
 Recording link: https://awsvirtual.webex.com/awsvirtual/ldr.php?RCID=c0e227d42d825853795c6cdf83356f36
-
 Password: AWSAcademy2025
