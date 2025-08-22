@@ -79,3 +79,28 @@ Webex webinar recording: [Open for all AWS Academy educators] AWS Academy webina
 Recording link: https://awsvirtual.webex.com/awsvirtual/ldr.php?RCID=c0e227d42d825853795c6cdf83356f36
 Password: AWSAcademy2025
 
+
+
+
+Webex meeting recording: [Open for all AWS Academy educators] AWS Academy webinar - Amazon Simple Queue Service
+Password: AWSAcademy2025
+Recording link: https://awsvirtual.webex.com/awsvirtual/ldr.php?RCID=28b7dd9fc949e4bb4f6c60fdd279a3de
+
+ 
+
+Webex meeting recording: [Open for all AWS Academy educators] AWS Academy webinar - AWS Step Functions
+Password: AWSAcademy2025
+Recording link: https://awsvirtual.webex.com/awsvirtual/ldr.php?RCID=a060e1c2fdb9cb9304500260da2ee193
+
+ 
+
+Webex meeting recording: [Open for all AWS Academy educators] AWS Academy webinar - Amazon API Gateway
+Password: AWSAcademy2025
+Recording link: https://awsvirtual.webex.com/awsvirtual/ldr.php?RCID=750ef8fd2a467c5e35e5b70e4fda9458
+
+ 
+
+Webex meeting recording: [Open for all AWS Academy educators] AWS Academy webinar - Amazon Polly, Amazon Comprehend and Amazon Translate
+Password: AWSAcademy2025
+Recording link: https://awsvirtual.webex.com/awsvirtual/ldr.php?RCID=0fa382a4c9837065403813495675de87
+
