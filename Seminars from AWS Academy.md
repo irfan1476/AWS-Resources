@@ -104,3 +104,17 @@ Webex meeting recording: [Open for all AWS Academy educators] AWS Academy webina
 Password: AWSAcademy2025
 Recording link: https://awsvirtual.webex.com/awsvirtual/ldr.php?RCID=0fa382a4c9837065403813495675de87
 
+
+
+Webex webinar recording: AWS AI Certification Journey - Mastering AI Services and Preparing for AWS AI Practitioner Certification
+Recording link: https://awsvirtual.webex.com/awsvirtual/ldr.php?RCID=8616abc6c32488c8af8cc9a81613f028
+Password: AWSAcademy2025
+
+ 
+
+Webex webinar recording: [Open for all AWS Academy educators] AWS Academy webinar - AWS Lambda
+Recording link: https://awsvirtual.webex.com/awsvirtual/ldr.php?RCID=26e09fd6941513446ceed4be816d1b27
+Password: AWSAcademy2025
+
+
+
